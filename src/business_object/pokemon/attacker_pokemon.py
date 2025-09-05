@@ -1,4 +1,4 @@
-from business_object.statistic.abstract_pokemon import AbstractPokemon
+from business_object.pokemon.abstract_pokemon import AbstractPokemon
 
 
 class AttackerPokemon(AbstractPokemon):
